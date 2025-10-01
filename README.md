@@ -26,7 +26,7 @@ Currently focusing on **Frontend development** and gradually moving towards Back
 ## 📂 Projects
 
 - 🛒 **E-commerce Website** – Shopping platform with multiple products
-- 🟪 **Amazon Clone** – Using HTML, CSS & JavaScript
+- 🟪 **Amazon Clone** – Using HTML, CSS 
 - 🧮 **Calculator** – Fully working calculator
 - 📝 **To-Do List App** – Manage tasks efficiently
 
