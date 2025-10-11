@@ -44,7 +44,6 @@ Currently focusing on **Frontend development** and gradually moving towards Back
 ## 📊 GitHub Stats
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=radical)  
 ![HTML](https://img.shields.io/badge/HTML-Building-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Practicing-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
