@@ -29,6 +29,7 @@ Currently focusing on **Frontend development** and gradually moving towards Back
 - 🟪 **Amazon Clone** – Using HTML, CSS 
 - 🧮 **Calculator** – Fully working calculator
 - 📝 **To-Do List App** – Manage tasks efficiently
+- 🍽️ **Foody. Website** - Your go-to place for delicious food online.
 
 ---
 
