@@ -18,14 +18,14 @@ Currently focusing on **Frontend development** and gradually moving towards Back
 - ✅ **JavaScript** – DOM manipulation & ES6
 - ✅ **Bootstrap** – Responsive & fast design
 - ✅ **Tailwind CSS** – Modern utility-first styling
+- ✅ **Git/GitHub** – Version control & collaboration
 - 🔄 **React.js** – Currently learning
-- 🔄 **Git/GitHub** – Version control & collaboration
+
 
 ---
 
 ## 📂 Projects
 
-- 🛒 **E-commerce Website** – Shopping platform with multiple products
 - 🟪 **Amazon Clone** – Using HTML, CSS 
 - 🧮 **Calculator** – Fully working calculator
 - 📝 **To-Do List App** – Manage tasks efficiently
