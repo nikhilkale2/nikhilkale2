@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhil
 
-### 🎓 Student | 🌐 Aspiring Full Stack Web Developer | 💻 IT Enthusiast
+### 🎓 Frontend Web Developer | 🌐 Aspiring Full Stack Web Developer | 💻 IT Enthusiast
 
 ---
 
