@@ -14,12 +14,12 @@ Currently focusing on **Frontend development** and gradually moving towards Back
 ## 🛠️ Skills & Learning
 
 - ✅ **HTML** – Structured web pages with semantic tags
-- ✅ **CSS** – Layouts, animations, flexbox & grid
+- ✅ **CSS** – Responsive Layouts, animations, flexbox & grid
 - ✅ **JavaScript** – DOM manipulation & ES6
 - ✅ **Bootstrap** – Responsive & fast design
 - ✅ **Tailwind CSS** – Modern utility-first styling
 - ✅ **Git/GitHub** – Version control & collaboration
-- 🔄 **React.js** – Currently learning
+
 
 
 ---
@@ -44,10 +44,11 @@ Currently focusing on **Frontend development** and gradually moving towards Back
 
 ## 📊 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
-![HTML](https://img.shields.io/badge/HTML-Building-FF5733?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Practicing-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
 
 
 ---
