@@ -8,7 +8,7 @@ Hello! I am Nikhil, a frontend Web Developer and student learning Full Stack Web
 I love building user-friendly and responsive web applications and am focused on Frontend development while gradually moving toward Backend technology.
 
 ## 🙋‍♂️ About Me
-Hello! I am **Nikhil**, a frontend Web Developer and student learning **Full Stack Web Development**.  
+Hello! I am **Nikhil**, a **frontend Web Developer** and student learning **Full Stack Web Development**.  
 I love building **user-friendly and responsive web applications** and am 
 Currently focused on **Frontend development** and gradually moving toward Backend technology.
 
