@@ -4,10 +4,13 @@
 
 ---
 
+Hello! I am Nikhil, a frontend Web Developer and student learning Full Stack Web Development. 
+I love building user-friendly and responsive web applications and am focused on Frontend development while gradually moving toward Backend technology.
+
 ## 🙋‍♂️ About Me
-Hello! I am **Nikhil**, a student learning **Full Stack Web Development**.  
-I love building **user-friendly and responsive web applications**.  
-Currently focusing on **Frontend development** and gradually moving towards Backend.
+Hello! I am **Nikhil**, a frontend Web Developer and student learning **Full Stack Web Development**.  
+I love building **user-friendly and responsive web applications** and am 
+Currently focused on **Frontend development** and gradually moving toward Backend technology.
 
 ---
 
@@ -26,9 +29,9 @@ Currently focusing on **Frontend development** and gradually moving towards Back
 
 ## 📂 Projects
 
-- 🟪 **Amazon Clone** – Using HTML, CSS 
-- 🧮 **Calculator** – Fully working calculator
-- 📝 **To-Do List App** – Manage tasks efficiently
+- 🟪 **Amazon Clone** – Using HTML, CSS.
+- 🧮 **Calculator** – Fully working calculator.
+- 📝 **Coffee Shop** – Developed a fully responsive coffee shop website.
 - 🍽️ **Foody. Website** - Your go-to place for delicious food online.
 
 ---
