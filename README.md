@@ -28,8 +28,8 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 - 🟪 **Amazon Clone** – Using HTML, CSS.
 - 🧮 **Calculator** – Fully working calculator.
-- 📝 **Coffee Shop** – Developed a fully responsive coffee shop website.
-- 🍽️ **Foody. Website** - Your go-to place for delicious food online.
+- 📝 **Coffee Shop** – Developed a fully responsive coffee shop website https://nk-coffee-shop.netlify.app/
+- 🍽️ **Foody. Website** - Your go-to place for delicious food online https://nsk-foodie.netlify.app/
 
 ---
 
