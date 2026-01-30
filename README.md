@@ -46,9 +46,11 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil123&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact
+)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=octocat
+)
 
 
 ---
