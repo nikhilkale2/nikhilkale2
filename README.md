@@ -11,15 +11,6 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 ---
 
-## 🛠️ Skills & Learning
-
-- ✅ **HTML** – Structured web pages with semantic tags
-- ✅ **CSS** – Responsive Layouts, animations, flexbox & grid
-- ✅ **JavaScript** – DOM manipulation & ES6
-- ✅ **Bootstrap** – Responsive & fast design
-- ✅ **Tailwind CSS** – Modern utility-first styling
-- ✅ **Git/GitHub** – Version control & collaboration
-
 ## 🛠 Skills
 
 <p>
