@@ -55,13 +55,14 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 ## Connect with me
 
+
 <p>
   <a href="https://www.linkedin.com/in/nikhilkale2" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 
   <a href="https://nikhilkale2.github.io/Nikhil_portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-000?style=for-the-badge&logo=google-chrome" height="40"/>
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome" height="40"/>
   </a>
 </p>
 
