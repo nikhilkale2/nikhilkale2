@@ -25,6 +25,15 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 ---
 
+## 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="48" alt="Chrome DevTools"/>
+</p>
+
+---
+
 ## 📂 Projects
 
 - 👟 **EliteKicks** – Modern sneaker store website with interactive UI. https://nikhilkale2.github.io/EliteKicks/
