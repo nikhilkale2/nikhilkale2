@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nikhil
+# 👋 Hi, I'm Nikhil Kale
 
 ### 🎓 Frontend Web Developer | 🌐 Aspiring Full Stack Web Developer | 💻 IT Enthusiast
 
