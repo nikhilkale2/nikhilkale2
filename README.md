@@ -29,7 +29,8 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="48" alt="Chrome DevTools"/>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.6oLBg7K68dDQ5MjAzQrvtQHaFs?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="48" alt="Google Antigravity"/>
+
 </p>
 
 ---
