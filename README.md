@@ -34,12 +34,45 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-- 👟 **EliteKicks** – Modern sneaker store website with interactive UI. https://nikhilkale2.github.io/EliteKicks/
-- 🧮 **Calculator** – Fully working calculator https://nsk-calcu.netlify.app/
-- 📝 **Coffee Shop** – Developed a fully responsive coffee shop website https://nk-coffee-shop.netlify.app/
-- 🍽️ **Foody. Website** - Your go-to place for delicious food online https://nsk-foodie.netlify.app/
+### 👟 EliteKicks
+> Modern sneaker e-commerce website with responsive design, shopping cart, dark/light mode, LocalStorage, and smooth animations.
+
+**🔧 Tech Stack:** HTML • CSS • JavaScript • Bootstrap
+
+**🌐 Live Demo:**  
+https://nikhilkale2.github.io/EliteKicks/
+
+---
+
+### ☕ Coffee Shop
+> Responsive coffee shop website with a clean UI, theme toggle, and interactive user experience.
+
+**🔧 Tech Stack:** HTML • CSS • JavaScript
+
+**🌐 Live Demo:**  
+https://nk-coffee-shop.netlify.app/
+
+---
+
+### 🍽️ Foody
+> Responsive restaurant website with a modern layout and mobile-first design.
+
+**🔧 Tech Stack:** HTML • Tailwind CSS • JavaScript
+
+**🌐 Live Demo:**  
+https://nsk-foodie.netlify.app/
+
+---
+
+### 🧮 Calculator
+> Responsive calculator with a simple interface supporting standard arithmetic operations.
+
+**🔧 Tech Stack:** HTML • CSS • JavaScript
+
+**🌐 Live Demo:**  
+https://nsk-calcu.netlify.app/
 
 ---
 
