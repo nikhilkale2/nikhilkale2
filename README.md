@@ -29,7 +29,7 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-<img src="https://svgcon.dev/icon/antigravity-google/" height="48" alt="Google Antigravity" />
+<img src="./assets/google-antigravity.png" height="48" alt="Google Antigravity" />
 
 </p>
 
