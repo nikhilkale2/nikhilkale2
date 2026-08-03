@@ -106,14 +106,13 @@ Responsive calculator with a simple interface supporting standard arithmetic ope
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilkale2&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilkale2&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkale2&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilkale2&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=nikhilkale2&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikhilkale2&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=nikhilkale2)
-
----
+--- 
 
 ## Connect with me
 
