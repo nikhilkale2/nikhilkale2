@@ -93,7 +93,7 @@ Responsive calculator with a simple interface supporting standard arithmetic ope
 </tr>
 </table>
 
---
+---
 
 ## 🎯 Goals
 
