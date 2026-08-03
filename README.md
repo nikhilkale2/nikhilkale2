@@ -35,46 +35,63 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 👟 EliteKicks
-> Modern sneaker e-commerce website with responsive design, shopping cart, dark/light mode, LocalStorage, and smooth animations.
 
-**🔧 Tech Stack:** HTML • CSS • JavaScript • Bootstrap
+Modern sneaker e-commerce website with responsive design, shopping cart, dark/light mode, LocalStorage, and smooth animations.
 
-**🌐 Live Demo:**  
-https://nikhilkale2.github.io/EliteKicks/
+**Tech Stack**  
+`HTML` `CSS` `JavaScript` `Bootstrap`
 
----
+🔗 **[Live Demo](https://nikhilkale2.github.io/EliteKicks/)**
+
+</td>
+
+<td width="50%">
 
 ### ☕ Coffee Shop
-> Responsive coffee shop website with a clean UI, theme toggle, and interactive user experience.
 
-**🔧 Tech Stack:** HTML • CSS • JavaScript
+Responsive coffee shop website with a clean UI, theme toggle, and interactive user experience.
 
-**🌐 Live Demo:**  
-https://nk-coffee-shop.netlify.app/
+**Tech Stack**  
+`HTML` `CSS` `JavaScript`
 
----
+🔗 **[Live Demo](https://nk-coffee-shop.netlify.app/)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🍽️ Foody
-> Responsive restaurant website with a modern layout and mobile-first design.
 
-**🔧 Tech Stack:** HTML • Tailwind CSS • JavaScript
+Responsive restaurant website with a modern layout and mobile-first design.
 
-**🌐 Live Demo:**  
-https://nsk-foodie.netlify.app/
+**Tech Stack**  
+`HTML` `Tailwind CSS` `JavaScript`
 
----
+🔗 **[Live Demo](https://nsk-foodie.netlify.app/)**
+
+</td>
+
+<td width="50%">
 
 ### 🧮 Calculator
-> Responsive calculator with a simple interface supporting standard arithmetic operations.
 
-**🔧 Tech Stack:** HTML • CSS • JavaScript
+Responsive calculator with a simple interface supporting standard arithmetic operations.
 
-**🌐 Live Demo:**  
-https://nsk-calcu.netlify.app/
+**Tech Stack**  
+`HTML` `CSS` `JavaScript`
 
----
+🔗 **[Live Demo](https://nsk-calcu.netlify.app/)**
 
+</td>
+</tr>
+</table>
 ## 🎯 Goals
 
 - 🚀 Become a professional **Full Stack Web Developer**
