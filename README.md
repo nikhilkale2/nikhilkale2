@@ -18,8 +18,7 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/gsap/88CE02" height="48" alt="GSAP"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="48" alt="Lenis JS"/>
+ <img src="https://cdn.simpleicons.org/gsap" height="48" alt="GSAP" />
 </p>
 
 
