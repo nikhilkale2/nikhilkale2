@@ -92,6 +92,9 @@ Responsive calculator with a simple interface supporting standard arithmetic ope
 </td>
 </tr>
 </table>
+
+--
+
 ## 🎯 Goals
 
 - 🚀 Become a professional **Full Stack Web Developer**
