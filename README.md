@@ -110,7 +110,7 @@ Responsive calculator with a simple interface supporting standard arithmetic ope
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilkale2&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilkale2&theme=radical)](https://git.io/streak-stats)![GitHub Streak](https://streak-stats.demolab.com?user=nikhilkale2&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilkale2&theme=radical)
 
 --- 
 
