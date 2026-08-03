@@ -27,10 +27,11 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 ## 🧰 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-<img src="[./assets/google-antigravity.png](https://img.toolin.ai/logos/google-antigravity-j23v15.png)" height="48" alt="Google Antigravity" />
+## 🧰 Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48" />
+  <img src="https://img.toolin.ai/logos/google-antigravity-j23v15.png" height="48" alt="Google Antigravity" />
 </p>
 
 ---
