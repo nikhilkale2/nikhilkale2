@@ -195,10 +195,83 @@ Contribute to real-world
 <td align="center" width="25%">
 
 ### 🧠
-### Level Up
+## 🎯 Developer Journey
 
-Improve **problem-solving**,  
-DSA & coding skills
+<div align="center">
+
+<h3>🚀 Building Today. Growing Every Day. Becoming Better Tomorrow.</h3>
+
+<p>
+My current focus is to become a strong <b>Full Stack Web Developer</b>
+by continuously learning, building and contributing.
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<h2>01</h2>
+
+<h3>🚀 BUILD</h3>
+
+<b>Full Stack Development</b>
+
+<p>
+Build scalable and responsive
+web applications with modern
+frontend & backend technologies.
+</p>
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>02</h2>
+
+<h3>⚛️ LEARN</h3>
+
+<b>Modern Technologies</b>
+
+<p>
+Master React.js, Node.js,
+Express.js, MongoDB and
+modern development practices.
+</p>
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>03</h2>
+
+<h3>🌍 CONTRIBUTE</h3>
+
+<b>Open Source</b>
+
+<p>
+Contribute to meaningful
+open-source projects and
+learn from real developers.
+</p>
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>04</h2>
+
+<h3>🧠 IMPROVE</h3>
+
+<b>Problem Solving</b>
+
+<p>
+Strengthen DSA, logical thinking,
+debugging and real-world
+coding skills.
+</p>
 
 </td>
 
@@ -207,12 +280,21 @@ DSA & coding skills
 
 <br>
 
-<img src="https://img.shields.io/badge/💻_BUILD-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📚_LEARN-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌍_CONTRIBUTE-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_GROW-111111?style=for-the-badge"/>
+<h3>⚡ My Development Mindset</h3>
+
+<p>
+<b>Learn → Build → Break → Debug → Improve → Repeat</b>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING_&_BUILDING-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_GROWTH-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEVELOPMENT-000000?style=for-the-badge"/>
 
 </div>
+
+---
 
 ---
 
