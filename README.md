@@ -155,7 +155,6 @@ for standard arithmetic operations.
 </div>
 
 ---
-## 🎯 My Goals
 
 ## 🎯 My Goals
 
