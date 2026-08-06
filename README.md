@@ -37,59 +37,109 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 👟 EliteKicks
 
-Modern sneaker e-commerce website with responsive design, shopping cart, dark/light mode, LocalStorage, and smooth animations.
+**🟢 E-Commerce Website**
 
-**Tech Stack**  
+Modern sneaker e-commerce platform with a responsive UI, shopping cart, authentication, dark/light mode, LocalStorage, and smooth animations.
+
+**🛠️ Tech Stack**
+
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
-🔗 **[Live Demo](https://nikhilkale2.github.io/EliteKicks/)**
+**✨ Features**
+
+- 🛒 Shopping Cart
+- 🌙 Dark / Light Mode
+- 💾 LocalStorage
+- 🔐 Login / Signup
+- 📱 Fully Responsive
+- 🎬 Smooth Animations
+
+**🔗 [Live Demo](https://nikhilkale2.github.io/EliteKicks/)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☕ Coffee Shop
 
-Responsive coffee shop website with a clean UI, theme toggle, and interactive user experience.
+**🟢 Restaurant / Cafe Website**
 
-**Tech Stack**  
+Responsive coffee shop website with a clean modern interface, theme toggle, and interactive user experience.
+
+**🛠️ Tech Stack**
+
 `HTML` `CSS` `JavaScript`
 
-🔗 **[Live Demo](https://nk-coffee-shop.netlify.app/)**
+**✨ Features**
+
+- ☕ Modern UI
+- 🌙 Theme Toggle
+- 📱 Responsive Design
+- ⚡ Interactive Elements
+- 🎨 Clean Layout
+
+**🔗 [Live Demo](https://nk-coffee-shop.netlify.app/)**
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🍽️ Foody
 
-Responsive restaurant website with a modern layout and mobile-first design.
+**🟢 Restaurant Website**
 
-**Tech Stack**  
+Modern restaurant website built with a mobile-first approach and responsive layout for a smooth browsing experience.
+
+**🛠️ Tech Stack**
+
 `HTML` `Tailwind CSS` `JavaScript`
 
-🔗 **[Live Demo](https://nsk-foodie.netlify.app/)**
+**✨ Features**
+
+- 🍔 Restaurant UI
+- 📱 Mobile First
+- 🎨 Modern Layout
+- ⚡ Interactive Design
+- 💻 Responsive
+
+**🔗 [Live Demo](https://nsk-foodie.netlify.app/)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧮 Calculator
 
-Responsive calculator with a simple interface supporting standard arithmetic operations.
+**🟢 Utility Web App**
 
-**Tech Stack**  
+Simple and responsive calculator designed with a clean interface for performing standard arithmetic operations.
+
+**🛠️ Tech Stack**
+
 `HTML` `CSS` `JavaScript`
 
-🔗 **[Live Demo](https://nsk-calcu.netlify.app/)**
+**✨ Features**
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 📱 Responsive UI
+- ⚡ Fast Interaction
+
+**🔗 [Live Demo](https://nsk-calcu.netlify.app/)**
 
 </td>
+
 </tr>
 </table>
 
