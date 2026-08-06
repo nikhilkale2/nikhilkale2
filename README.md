@@ -35,116 +35,126 @@ Currently focused on **Frontend development** and gradually moving toward Backen
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
+<td align="center" width="50%">
 
-<td width="50%" valign="top">
+<h3>01 · 👟 EliteKicks</h3>
 
-### 👟 EliteKicks
+<p>
+<b>Modern Sneaker E-Commerce Platform</b>
+</p>
 
-**🟢 E-Commerce Website**
+<p>
+A complete sneaker shopping experience with cart,
+authentication, themes, LocalStorage and animations.
+</p>
 
-Modern sneaker e-commerce platform with a responsive UI, shopping cart, authentication, dark/light mode, LocalStorage, and smooth animations.
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
 
-**🛠️ Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-**✨ Features**
-
-- 🛒 Shopping Cart
-- 🌙 Dark / Light Mode
-- 💾 LocalStorage
-- 🔐 Login / Signup
-- 📱 Fully Responsive
-- 🎬 Smooth Animations
-
-**🔗 [Live Demo](https://nikhilkale2.github.io/EliteKicks/)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☕ Coffee Shop
-
-**🟢 Restaurant / Cafe Website**
-
-Responsive coffee shop website with a clean modern interface, theme toggle, and interactive user experience.
-
-**🛠️ Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-**✨ Features**
-
-- ☕ Modern UI
-- 🌙 Theme Toggle
-- 📱 Responsive Design
-- ⚡ Interactive Elements
-- 🎨 Clean Layout
-
-**🔗 [Live Demo](https://nk-coffee-shop.netlify.app/)**
+<p>
+<a href="https://nikhilkale2.github.io/EliteKicks/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge"/>
+</a>
+</p>
 
 </td>
 
+<td align="center" width="50%">
+
+<h3>02 · ☕ Coffee Shop</h3>
+
+<p>
+<b>Modern Coffee Shop Experience</b>
+</p>
+
+<p>
+A clean and responsive coffee shop website
+with interactive elements and theme switching.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<p>
+<a href="https://nk-coffee-shop.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
 </tr>
 
 <tr>
+<td align="center" width="50%">
 
-<td width="50%" valign="top">
+<h3>03 · 🍽️ Foody</h3>
 
-### 🍽️ Foody
+<p>
+<b>Responsive Restaurant Website</b>
+</p>
 
-**🟢 Restaurant Website**
+<p>
+Modern restaurant interface designed with
+a mobile-first approach and responsive layout.
+</p>
 
-Modern restaurant website built with a mobile-first approach and responsive layout for a smooth browsing experience.
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
-**🛠️ Tech Stack**
-
-`HTML` `Tailwind CSS` `JavaScript`
-
-**✨ Features**
-
-- 🍔 Restaurant UI
-- 📱 Mobile First
-- 🎨 Modern Layout
-- ⚡ Interactive Design
-- 💻 Responsive
-
-**🔗 [Live Demo](https://nsk-foodie.netlify.app/)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧮 Calculator
-
-**🟢 Utility Web App**
-
-Simple and responsive calculator designed with a clean interface for performing standard arithmetic operations.
-
-**🛠️ Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-**✨ Features**
-
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 📱 Responsive UI
-- ⚡ Fast Interaction
-
-**🔗 [Live Demo](https://nsk-calcu.netlify.app/)**
+<p>
+<a href="https://nsk-foodie.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge"/>
+</a>
+</p>
 
 </td>
 
+<td align="center" width="50%">
+
+<h3>04 · 🧮 Calculator</h3>
+
+<p>
+<b>Simple & Responsive Calculator</b>
+</p>
+
+<p>
+A lightweight calculator application
+for standard arithmetic operations.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<p>
+<a href="https://nsk-calcu.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
 </tr>
 </table>
 
----
+</div>
 
+---
 ## 🎯 Goals
 
 - 🚀 Become a professional **Full Stack Web Developer**
