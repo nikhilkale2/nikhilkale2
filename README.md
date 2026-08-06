@@ -155,12 +155,64 @@ for standard arithmetic operations.
 </div>
 
 ---
-## 🎯 Goals
+## 🎯 My Goals
 
-- 🚀 Become a professional **Full Stack Web Developer**
-- 🌱 Learn **React.js, Node.js, Express & MongoDB**
-- 💡 Contribute to **Open Source Projects**
-- 📈 Improve **problem-solving & coding skills**
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🚀
+### Full Stack
+
+Become a professional  
+**Full Stack Web Developer**
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️
+### Master React
+
+Build modern applications  
+with **React.js & Node.js**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌍
+### Open Source
+
+Contribute to real-world  
+**Open Source Projects**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+### Level Up
+
+Improve **problem-solving**,  
+DSA & coding skills
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/💻_BUILD-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚_LEARN-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍_CONTRIBUTE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_GROW-111111?style=for-the-badge"/>
+
+</div>
 
 ---
 
